@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Marlin",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"istream": "cpp",
+			"memory": "cpp",
+			"valarray": "cpp"
+		}
+	}
+}
